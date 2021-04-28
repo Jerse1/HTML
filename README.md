@@ -1,2 +1,2 @@
-# cStuff
-# HELLO CHAT:
+
+# *okay so this is my first website*
